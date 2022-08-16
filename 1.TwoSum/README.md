@@ -1,30 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@ahmedyasser43
-ahmedyasser43 /
-Leetcode-Solutions
-Private
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-
-    Settings
-
-Leetcode-Solutions/1-two-sum/README.md
-@ahmedyasser43
-ahmedyasser43 Create README - LeetHub
-Latest commit 6264c0c 3 days ago
-History
-1 contributor
 38 lines (27 sloc) 1.42 KB
 <h2><a href="https://leetcode.com/problems/two-sum/">1. Two Sum</a></h2><h3>Easy</h3><hr><div><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
@@ -64,19 +37,3 @@ History
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than&nbsp;<code>O(n<sup>2</sup>)&nbsp;</code>time complexity?</div>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
